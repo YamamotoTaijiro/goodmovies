@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+.new-icon {
+  @apply absolute border-2 border-green-800 bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded -rotate-6 -left-2 -top-1
+}
