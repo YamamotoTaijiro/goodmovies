@@ -14,3 +14,6 @@
 .open-ticket {
   @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded mb-2 inline-block relative
 }
+.inline-link {
+  @apply text-blue-600 hover:text-white hover:bg-blue-600 hover:no-underline px-1 underline rounded-md
+}
